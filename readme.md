@@ -21,12 +21,8 @@ size_categories:
 
 <div align="center">
 
-<h1 align="center">🔷 Z3-Verified MCTS Reasoning Graphs</h1>
+<h1 align="center"> Z3-Verified MCTS Reasoning Graphs</h1>
 <h3 align="center"><em>5k Baseline · Production-Ready · Zero Label Noise</em></h3>
-
-[![Website](https://img.shields.io/badge/🌐_Website-000000?style=for-the-badge)](https://z3mcts.vercel.app/)
-[![Bigger Dataset](https://img.shields.io/badge/⚡_Unlock_100k_Rows-FF90E8?style=for-the-badge&logo=gumroad&logoColor=white)](https://mctsgraph.gumroad.com/l/dccit)
-[![Contact](https://img.shields.io/badge/✉_Contact-0A66C2?style=for-the-badge)](mailto:ngygabor01@gmail.com)
 
 </div>
 
@@ -37,10 +33,10 @@ size_categories:
  
 Open-source LLMs hallucinate on constraint satisfaction problems because they are trained on fluent-sounding but logically inconsistent traces. This dataset is different:
  
-- ❌ No LLM-generated reasoning — **zero hallucinations, zero label noise**
-- ✅ Every solution verified by the **Microsoft Z3 Theorem Prover**
-- ✅ Traces show real search: **dead ends, backtrack signals, constraint propagation**
-- ✅ Three distinct algorithms teach the model **multiple valid solution paths**
+-  No LLM-generated reasoning — **zero hallucinations, zero label noise**
+-  Every solution verified by the **Microsoft Z3 Theorem Prover**
+-  Traces show real search: **dead ends, backtrack signals, constraint propagation**
+-  Three distinct algorithms teach the model **multiple valid solution paths**
  
 
 ---
@@ -200,10 +196,8 @@ Each row is tagged with the algorithm that produced its reasoning trace:
 
 *Need a custom dataset? Want to integrate verified reasoning traces into your B2B pipeline?*
 
-**[🌐 Website](https://z3mcts.vercel.app/)** · **[⚡ Get 20k / 100k](https://mctsgraph.gumroad.com/l/dccit)** · **[✉ ngygabor01@gmail.com](mailto:ngygabor01@gmail.com)**
+ **[✉ ngygabor01@gmail.com](mailto:ngygabor01@gmail.com)**
 
 ---
-
-*Built with precision · Z3 Theorem Prover*
 
 </div>
